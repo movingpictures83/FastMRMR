@@ -1,0 +1,2 @@
+Prefix plugins/FastMRMR/example
+Plugin FastMRMR inputfile data.csv outputfile none
